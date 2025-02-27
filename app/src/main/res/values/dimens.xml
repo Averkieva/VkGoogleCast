@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Padding and Margins -->
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    <!-- Sizes -->
+    <dimen name="icon_size">48dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_large">16sp</dimen>
+
+    <!-- Padding for Button -->
+    <dimen name="padding_horizontal">24dp</dimen>
+    <dimen name="padding_vertical">12dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="elevation">4dp</dimen>
+</resources>

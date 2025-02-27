@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vk Google Cast</string>
+
+    <!-- Fragment cast -->
+    <string name="play_video">Воспроизвести видео</string>
+
+    <!-- Navigation graph -->
+    <string name="cast_fragment_video">Cast Fragment Video</string>
+</resources>
